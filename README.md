@@ -1,9 +1,9 @@
-# aqms
-### Air Quality Monitoring Database
+
+# Air Quality Monitoring Database
 ----------
 The Air Quality Monitoring Database serves as a framework for recording, storing, and manipulating data from various air quality monitoring equipment. It helps manage various information related to the monitoring equipment, in addition to just recording the measurement data, for further in-depth data analysis.
 
-### Explanation
+## Explain
 -------
 * Below is the design of the database schema in an ER diagram, along with descriptions of each table.
 
@@ -20,7 +20,7 @@ The Air Quality Monitoring Database serves as a framework for recording, storing
 | `project_loc` | This table records the list of locations listed in the `loc` table that are involved in a project. |
 
 
-### Get Started
+## Get Started
 ------
 0. Please note: The above SQL is written in PostgreSQL.
 1. . To create the database, load `create_tables.sql`.
