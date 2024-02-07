@@ -26,4 +26,4 @@ The Air Quality Monitoring Database serves as a framework for recording, storing
 1. . To create the database, load `create_tables.sql`.
 2. To load the sample data for testing, load the following files in order: `sample_project.sql`, `sample_equipment.sql`, `sample_location.sql`, `sample_equip_loc.sql`, `sample_equip_data.sql`, `sample_equip_status.sql`, `sample_project_loc.sql`.
 3. To query the sample data for a trial, run the following SQL files with the prefix _query_.
-4. Any suggestions/comments on the above are welcome :).
+4. Any suggestions/comments on the above are welcome. :)
